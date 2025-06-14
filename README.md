@@ -9,7 +9,7 @@ Proje sayımız ilerledikçe proje yönetimimizi kolaylaştırmak adına projele
 
 ### Hedeflerimiz:
 
-### Burger Rest Api
+### Casino Rest Api
 
  ### Başlangıç
  * İçerisinde ```Spring Web, Spring Data Jpa, postgresql``` dependencyleri olduğundan emin olun.
